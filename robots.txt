@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gabcavic.github.io/al-folio/sitemap.xml
+Sitemap: https://gabcavic.github.io/sitemap.xml
