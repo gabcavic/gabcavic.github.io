@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Politecnico di Milano</a>. Via Ponzio 34/5, 20133, Milano, Italia. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: CV_portrait.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
